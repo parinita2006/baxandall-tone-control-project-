@@ -1,2 +1,2 @@
-# baxandall-tone-control-project-
+# baxandall-tone-control-project
 High-performance analog audio preamplifier implementing an active Baxandall bass and treble tone control topology using the TL072 low-noise JFET-input operational amplifier and LM386 output driver stage. The system employs frequency-selective RC feedback networks to achieve independent symmetrical boost/cut response across the 20 Hz–20 kHz audio spectrum while preserving flat mid-band gain characteristics. Designed and validated in LTspice through parametric AC sweep analysis, the project demonstrates active filter design, cascaded amplification stages, low-noise analog signal conditioning, and frequency-domain response optimization for real-world audio processing applications.
